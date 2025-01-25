@@ -1,0 +1,195 @@
+Casualty_Class,Casualty_Severity,Casualty_Sex,Age_of_Casualty_1,CasualtiesID
+Driver or rider,Serious,Male,19,1
+Driver or rider,Serious,Male,36,2
+Pedestrian,Slight,Male,18,3
+Driver or rider,Slight,Female,53,4
+Pedestrian,Slight,Male,23,5
+Vehicle or pillion passenger,Slight,Female,64,6
+Driver or rider,Serious,Male,47,7
+Driver or rider,Slight,Male,51,8
+Pedestrian,Slight,Male,11,9
+Vehicle or pillion passenger,Slight,Male,43,10
+Vehicle or pillion passenger,Slight,Female,47,11
+Driver or rider,Slight,Male,33,12
+Driver or rider,Slight,Male,17,13
+Driver or rider,Slight,Male,40,14
+Pedestrian,Serious,Female,75,15
+Driver or rider,Slight,Female,20,16
+Driver or rider,Slight,Male,64,17
+Pedestrian,Slight,Female,28,18
+Driver or rider,Serious,Male,28,19
+Driver or rider,Slight,Female,32,20
+Driver or rider,Serious,Male,25,21
+Vehicle or pillion passenger,Slight,Female,1,22
+Driver or rider,Slight,Male,36,23
+Driver or rider,Slight,Male,78,24
+Driver or rider,Slight,Female,33,25
+Driver or rider,Slight,Male,49,26
+Pedestrian,Slight,Male,79,27
+Driver or rider,Slight,Male,43,28
+Vehicle or pillion passenger,Serious,Male,40,29
+Driver or rider,Slight,Female,47,30
+Driver or rider,Slight,Male,18,31
+Pedestrian,Slight,Male,38,32
+Vehicle or pillion passenger,Slight,Female,26,33
+Driver or rider,Slight,Female,35,34
+Pedestrian,Serious,Female,74,35
+Pedestrian,Slight,Female,32,36
+Vehicle or pillion passenger,Slight,Female,41,37
+Driver or rider,Serious,Female,29,38
+Vehicle or pillion passenger,Slight,Female,63,39
+Pedestrian,Slight,Male,86,40
+Driver or rider,Serious,Male,57,41
+Driver or rider,Slight,Female,49,42
+Pedestrian,Slight,Male,17,43
+Driver or rider,Slight,Male,19,44
+Driver or rider,Slight,Male,15,45
+Driver or rider,Serious,Male,45,46
+Driver or rider,Slight,Female,57,47
+Driver or rider,Slight,Male,27,48
+Driver or rider,Slight,Female,62,49
+Driver or rider,Slight,Female,46,50
+Pedestrian,Slight,Female,47,51
+Vehicle or pillion passenger,Slight,Female,61,52
+Driver or rider,Slight,Male,61,53
+Pedestrian,Serious,Female,17,54
+Driver or rider,Slight,Male,5,55
+Pedestrian,Serious,Male,47,56
+Vehicle or pillion passenger,Slight,Female,43,57
+Driver or rider,Slight,Male,53,58
+Driver or rider,Slight,Male,54,59
+Driver or rider,Slight,Male,37,60
+Vehicle or pillion passenger,Slight,Male,8,61
+Driver or rider,Serious,Female,69,62
+Pedestrian,Slight,Male,47,63
+Driver or rider,Slight,Male,29,64
+Pedestrian,Slight,Male,63,65
+Driver or rider,Slight,Male,38,66
+Driver or rider,Serious,Male,60,67
+Pedestrian,Serious,Female,9,68
+Driver or rider,Slight,Male,82,69
+Driver or rider,Slight,Male,6,70
+Driver or rider,Serious,Male,48,71
+Driver or rider,Slight,Male,79,72
+Pedestrian,Slight,Female,44,73
+Driver or rider,Slight,Male,41,74
+Driver or rider,Slight,Male,31,75
+Pedestrian,Slight,Male,20,76
+Driver or rider,Slight,Male,24,77
+Vehicle or pillion passenger,Slight,Female,18,78
+Driver or rider,Serious,Male,44,79
+Pedestrian,Serious,Female,41,80
+Vehicle or pillion passenger,Slight,Female,14,81
+Driver or rider,Slight,Male,22,82
+Driver or rider,Slight,Male,75,83
+Driver or rider,Serious,Male,18,84
+Driver or rider,Slight,Female,69,85
+Driver or rider,Slight,Male,25,86
+Vehicle or pillion passenger,Fatal,Male,31,87
+Driver or rider,Slight,Male,60,88
+Driver or rider,Serious,Male,22,89
+Driver or rider,Serious,Male,14,90
+Driver or rider,Serious,Male,16,91
+Vehicle or pillion passenger,Slight,Female,56,92
+Driver or rider,Slight,Female,29,93
+Driver or rider,Slight,Male,21,94
+Driver or rider,Slight,Male,85,95
+Driver or rider,Slight,Male,63,96
+Driver or rider,Slight,Male,28,97
+Pedestrian,Slight,Male,28,98
+Driver or rider,Slight,Female,24,99
+Pedestrian,Serious,Female,73,100
+Driver or rider,Slight,Male,47,101
+Driver or rider,Slight,Male,32,102
+Driver or rider,Slight,Male,12,103
+Pedestrian,Slight,Female,25,104
+Driver or rider,Slight,Male,30,105
+Driver or rider,Slight,Female,18,106
+Driver or rider,Slight,Male,20,107
+Driver or rider,Slight,Female,39,108
+Vehicle or pillion passenger,Slight,Female,34,109
+Pedestrian,Slight,Male,24,110
+Pedestrian,Serious,Male,28,111
+Driver or rider,Serious,Male,21,112
+Driver or rider,Slight,Male,14,113
+Driver or rider,Slight,Male,58,114
+Pedestrian,Serious,Male,9,115
+Driver or rider,Slight,Male,16,116
+Driver or rider,Serious,Male,27,117
+Vehicle or pillion passenger,Slight,Female,81,118
+Driver or rider,Slight,Male,26,119
+Vehicle or pillion passenger,Slight,Female,3,120
+Driver or rider,Serious,Male,49,121
+Driver or rider,Slight,Male,46,122
+Driver or rider,Slight,Male,44,123
+Driver or rider,Serious,Male,46,124
+Pedestrian,Serious,Male,5,125
+Driver or rider,Slight,Female,71,126
+Driver or rider,Slight,Male,39,127
+Driver or rider,Slight,Female,25,128
+Vehicle or pillion passenger,Serious,Male,20,129
+Vehicle or pillion passenger,Slight,Female,15,130
+Driver or rider,Slight,Male,70,131
+Driver or rider,Slight,Female,30,132
+Driver or rider,Slight,Female,36,133
+Driver or rider,Slight,Male,50,134
+Driver or rider,Slight,Male,45,135
+Pedestrian,Slight,Male,7,136
+Pedestrian,Slight,Female,45,137
+Driver or rider,Slight,Male,55,138
+Vehicle or pillion passenger,Slight,Male,67,139
+Pedestrian,Slight,Male,42,140
+Driver or rider,Fatal,Male,43,141
+Driver or rider,Serious,Male,52,142
+Driver or rider,Slight,Male,59,143
+Vehicle or pillion passenger,Slight,Female,54,144
+Driver or rider,Slight,Female,76,145
+Vehicle or pillion passenger,Slight,Male,62,146
+Pedestrian,Slight,Female,4,147
+Driver or rider,Slight,Male,89,148
+Driver or rider,Serious,Male,55,149
+Driver or rider,Serious,Male,61,150
+Driver or rider,Slight,Female,21,151
+Vehicle or pillion passenger,Serious,Female,23,152
+Driver or rider,Slight,Male,34,153
+Driver or rider,Slight,Male,73,154
+Vehicle or pillion passenger,Slight,Female,9,155
+Driver or rider,Serious,Male,35,156
+Driver or rider,Serious,Male,26,157
+Driver or rider,Slight,Female,75,158
+Vehicle or pillion passenger,Slight,Male,2,159
+Pedestrian,Slight,Female,33,160
+Vehicle or pillion passenger,Slight,Male,36,161
+Driver or rider,Slight,Female,23,162
+Driver or rider,Slight,Female,55,163
+Driver or rider,Slight,Female,90,164
+Driver or rider,Serious,Female,31,165
+Pedestrian,Slight,Male,22,166
+Vehicle or pillion passenger,Serious,Male,87,167
+Driver or rider,Slight,Female,65,168
+Driver or rider,Serious,Male,38,169
+Driver or rider,Slight,Male,77,170
+Driver or rider,Slight,Female,44,171
+Vehicle or pillion passenger,Slight,Female,30,172
+Pedestrian,Slight,Female,50,173
+Pedestrian,Slight,Male,66,174
+Pedestrian,Slight,Male,14,175
+Pedestrian,Slight,Male,13,176
+Pedestrian,Serious,Male,31,177
+Pedestrian,Slight,Male,52,178
+Vehicle or pillion passenger,Slight,Female,6,179
+Pedestrian,Slight,Male,26,180
+Pedestrian,Slight,Male,50,181
+Pedestrian,Serious,Male,78,182
+Driver or rider,Slight,Female,61,183
+Pedestrian,Slight,Female,55,184
+Vehicle or pillion passenger,Slight,Female,21,185
+Pedestrian,Slight,Male,49,186
+Vehicle or pillion passenger,Serious,Male,24,187
+Pedestrian,Slight,Male,37,188
+Pedestrian,Slight,Female,43,189
+Driver or rider,Serious,Female,83,190
+Vehicle or pillion passenger,Slight,Male,16,191
+Vehicle or pillion passenger,Slight,Female,38,192
+Driver or rider,Serious,Male,29,193
+Pedestrian,Serious,Female,15,194

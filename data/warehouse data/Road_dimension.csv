@@ -1,0 +1,12 @@
+_st_Road_Class,Road_Surface,RoadID
+A,Dry,1
+Unclassified,Dry,2
+Motorway,Wet / Damp,3
+Motorway,Dry,4
+B,Wet / Damp,5
+A,Wet / Damp,6
+Unclassified,Wet / Damp,7
+Unclassified,Frost / Ice,8
+B,Dry,9
+Motorway,Flood (surface water over 3cm deep),10
+Unclassified,Snow,11

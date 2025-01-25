@@ -1,0 +1,13 @@
+Weather_Conditions,Lighting_Conditions
+Fine without high winds,Darkness: no street lighting
+Fine without high winds,Darkness: street lights present and lit
+Fine without high winds,Daylight: street lights present
+Raining with high winds,Darkness: street lights present and lit
+Raining without high winds,Darkness: street lights present and lit
+Raining without high winds,Daylight: street lights present
+Fog or mist – if hazard,Darkness: street lights present and lit
+Fine without high winds,Darkness: street lighting unknown
+Fine with high winds,Daylight: street lights present
+Raining with high winds,Daylight: street lights present
+Raining without high winds,Darkness: no street lighting
+Fine without high winds,Darkness: street lights present but unlit
